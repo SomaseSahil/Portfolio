@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/Portfolio/',
+  base: '/Sahil_Somase/',
   plugins: [react()],
   server: {
     host: '0.0.0.0',
