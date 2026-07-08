@@ -4,12 +4,6 @@ A modern, responsive, and interactive personal portfolio showcasing my journey a
 
 ---
 
-## 🌐 Live Demo
-
-> Coming Soon
-
----
-
 ## ✨ Features
 
 - 🎨 Modern and responsive UI
