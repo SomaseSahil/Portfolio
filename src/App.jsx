@@ -66,21 +66,21 @@ const projects = [
     description: 'An AI-powered application that detects road surface cracks using OpenCV and computer vision techniques, enabling faster and more accurate road inspection.',
     stack: ['Python', 'OpenCV', 'Computer Vision', 'Image Processing'],
     github: 'https://github.com/SomaseSahil/RoadSense-AI-Automated-Road-Crack-Detection-using-OpenCV',
-    demo: '/videos/Screen Recording 2026-03-15 202617.mp4.mp4',
+    demo: 'videos/Screen Recording 2026-03-15 202617.mp4.mp4',
   },
   {
     title: 'ABRIS EV System',
     description: 'An intelligent EV battery management system that enhances performance through automated battery switching and rest cycles, improving efficiency, battery lifespan, and sustainable energy utilization.',
     stack: ['Python', 'IoT', 'Battery Management', 'Energy Optimization'],
     github: 'https://github.com/SomaseSahil/ABRIS-EV-System',
-    demo: '/videos/abris-ev-demo.mp4.mp4',
+    demo: 'videos/abris-ev-demo.mp4.mp4',
   },
   {
     title: 'E-Commerce Website',
     description: 'A responsive e-commerce website with product browsing, shopping cart functionality, and a modern user-friendly interface.',
     stack: ['HTML', 'CSS', 'JavaScript'],
     github: 'https://github.com/SomaseSahil/E-Commerce-Website',
-    demo: '/videos/Recording 2026-07-08 221451.mp4',
+    demo: 'videos/Recording 2026-07-08 221451.mp4',
   },
 ];
 
@@ -335,7 +335,7 @@ function App() {
             >
               <div className="mb-4 flex items-center justify-center rounded-full border border-white/10 bg-gradient-to-br from-cyan-400/10 via-slate-900 to-violet-400/10 p-6">
                 <img 
-                  src="/images/profile.jpg" 
+                  src="images/profile.jpg" 
                   alt="Profile" 
                   className="h-72 w-72 rounded-full border-2 border-cyan-400/40 object-cover object-[50%_10%] shadow-[0_0_40px_rgba(49,214,255,0.28)]"
                 />
@@ -574,7 +574,7 @@ function App() {
             <motion.a
               whileHover={{ scale: 1.03, y: -2 }}
               whileTap={{ scale: 0.98 }}
-              href="/resume.pdf"
+              href="resume.pdf"
               download
               className="inline-flex items-center justify-center gap-3 rounded-full border border-cyan-400/40 bg-cyan-400/10 px-7 py-4 font-medium text-cyan-100 transition hover:bg-cyan-400/20"
             >
